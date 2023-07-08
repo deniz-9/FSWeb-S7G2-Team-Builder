@@ -1,3 +1,6 @@
+
+ÖNEMLİ NOT: Workintech Readme.md'de ki proje kurulum aşamasında yazılan talimatlarda npx create-react-app kısmında   proje klasör adı baş harfleri büyük yazıldığından dolayı proje çalışmamıştır. Klasör adı küçük harflerle değiştirilmiştir.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
